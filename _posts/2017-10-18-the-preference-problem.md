@@ -27,7 +27,6 @@ Now that the required definitions have been established, let's get into the meat
 
 What is preference
 =================
-
 A preference for a certain object or idea or state of being is the liking for that object or idea or state of being over other objects or ideas or states of being. Preferences are conscious experiences as they cannot exist outside of a subject's mind and thus, are inherently subjective. They are also totally arbitrary. One cannot reason himself into liking something. Neither can one point to an object in reality that delineates what one should prefer. In case of humans, the genetic makeup of a subject endows him with a collection of preferences. Then, new ones are formed through interactions with his surrounding environment. In case of inferior animals, the later process doesn't take place.
 
 The role of preference in the lives of conscious entities 
@@ -43,6 +42,20 @@ Objective questions:- This kind of questions only ask about the relative positio
 "Where is my pen?" - this question only asks about the relative position of the pen in relation to the objective world.
 "How did it end up being on the table?" - this question only asks about some of the past relative positions of the pen.
 "What is the color of my pen?" - this question only asks about a specific objective state of the pen. Note that the answers to all of the above questions are independent of all possible subjective constructs.
+
+Preferential constructs
+===============================
+Preferential constructs are constructs the sole function of which is to justify preferences. This doesn't imply that all ideas are preferential constructs. Ideas are basically constructs of the subject mind (the word "subject" is being used here instead of "human" in order to incorporate all possible conscious entities). Therefore, they are all products of conscious pursuit. As conscious pursuits are solely driven by preferences, it may seem that therefore, all ideas are preferential constructs. But that isn't true. Not all ideas are justifications of references even though all of them are products of "the exercise of preference". Basic mathematical ideas such as subtraction, addition, multiplication were developed by people who wanted to effectively count and keep track of the quantity of objects around them. More advanced mathematical ideas such as Euclidean geometry, calculus were developed by people who wanted to explain some phenomenon or just liked doing maths. Therefore, these ideas are the products of the human mind's exercise of preference. However, these aren't preferential constructs as they do not attempt to justify the preferences out of which they emerged. On the other hand, "Mathematics is good for civilization" is a preferential construct because it's a justification of a specific preference. 
+
+Note that as preferences are inherently subjective and arbitrary and doesn't in any way describe the objective world, justifications of preferences are also subjective and arbitrary. Preferential constructs merely assert, do not prove, that a certain preference is justified.  They presume what they wish to establish to be the premise itself. 
+"Mathematics should be exercised because it's good for mankind"
+The above argument can be translated into the following - 
+"Anything that I like is good" 
+"I like what mathematics does for mankind" 
+"Therefore, mathematics should be exercised as it's good" 
+Notice that after translation, it becomes clear that the above argument uses the very preference that it seeks to justify as its premise. It's also a preferential construct as it seeks to justify a certain exercise of preference (in this case, doing maths). 
+Typical examples of preferential constructs are values, ideas of goodness and badness, prescriptions of behavior etc.
+
 
 How 'preference' creates problems  
 ===============================
